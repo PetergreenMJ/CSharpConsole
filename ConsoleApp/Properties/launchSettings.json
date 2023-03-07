@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "ConsoleApp/first-app": {
+      "commandName": "Project",
+      "commandLineArgs": "30000\r\n30"
+    },
+    "ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Taxe1\r\nSalaire1"
+    }
+  }
+}

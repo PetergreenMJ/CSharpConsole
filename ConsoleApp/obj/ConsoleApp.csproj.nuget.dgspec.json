@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilisateur\\Desktop\\Programme\\asp.net\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Utilisateur\\Source\\Repos\\PetergreenMJ\\CSharpConsole\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilisateur\\Desktop\\Programme\\asp.net\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Utilisateur\\Source\\Repos\\PetergreenMJ\\CSharpConsole\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilisateur\\Desktop\\Programme\\asp.net\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Utilisateur\\Source\\Repos\\PetergreenMJ\\CSharpConsole\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Utilisateur\\Desktop\\Programme\\asp.net\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Utilisateur\\Source\\Repos\\PetergreenMJ\\CSharpConsole\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilisateur\\Desktop\\Programme\\asp.net\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Utilisateur\\Source\\Repos\\PetergreenMJ\\CSharpConsole\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
